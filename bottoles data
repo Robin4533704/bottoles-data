@@ -1,0 +1,52 @@
+[
+  {
+    "id": "wb001",
+    "brand": "Hydro Flask",
+    "capacity": "32 oz",
+    "material": "Stainless Steel",
+    "price": 39.95,
+    "isInsulated": true,
+    "usage": "Suitable for hot and cold drinks",
+    "image": "https://via.placeholder.com/150?text=Hydro+Flask"
+  },
+  {
+    "id": "wb002",
+    "brand": "Nalgene",
+    "capacity": "1 Liter",
+    "material": "BPA-Free Plastic",
+    "price": 12.99,
+    "isInsulated": false,
+    "usage": "Best for cold drinks only",
+    "image": "https://via.placeholder.com/150?text=Nalgene"
+  },
+  {
+    "id": "wb003",
+    "brand": "Contigo",
+    "capacity": "24 oz",
+    "material": "Plastic",
+    "price": 14.49,
+    "isInsulated": true,
+    "usage": "Keeps drinks cold; some models support hot drinks",
+    "image": "https://via.placeholder.com/150?text=Contigo"
+  },
+  {
+    "id": "wb004",
+    "brand": "S'well",
+    "capacity": "17 oz",
+    "material": "Stainless Steel",
+    "price": 25.00,
+    "isInsulated": true,
+    "usage": "Great for both hot and cold drinks",
+    "image": "https://via.placeholder.com/150?text=Swell"
+  },
+  {
+    "id": "wb005",
+    "brand": "CamelBak",
+    "capacity": "25 oz",
+    "material": "Tritan Plastic",
+    "price": 18.00,
+    "isInsulated": false,
+    "usage": "Recommended for cold drinks only",
+    "image": "https://via.placeholder.com/150?text=CamelBak"
+  }
+]
